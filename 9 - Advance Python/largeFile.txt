@@ -1,0 +1,15 @@
+Required Qualifications
+
+Bachelor’s or Master’s degree in Computer Science, Data Science, Artificial Intelligence, or a related field.
+
+Strong proficiency in Python and ML libraries such as TensorFlow, PyTorch, Scikit-learn, XGBoost, or LightGBM.
+
+Experience in data manipulation with Pandas, NumPy, and SQL.
+
+Solid understanding of machine learning algorithms, feature engineering, and statistical modeling.
+
+Experience deploying models to production using frameworks like FastAPI, Flask, Docker, or Kubernetes.
+
+Familiarity with cloud platforms (AWS, GCP, or Azure) and MLOps tools.
+
+Strong problem-solving, analytical, and communication skills.

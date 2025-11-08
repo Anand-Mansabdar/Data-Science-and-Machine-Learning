@@ -1,0 +1,5 @@
+2025-42-08 12:42:36-root-DEBUG-This is used for debugging
+2025-42-08 12:42:36-root-INFO-This is used for some information
+2025-42-08 12:42:36-root-WARNING-This is used to issue warnings
+2025-42-08 12:42:36-root-ERROR-This is for an error
+2025-42-08 12:42:36-root-CRITICAL-This is used for providing critical messages
